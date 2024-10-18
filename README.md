@@ -1,0 +1,2 @@
+# Skincare App
+ This Flutter-based application is designed to assist users in managing their skincare routines. The app provides users with personalized skincare recommendations, tracks skincare products usage, and offers reminders for maintaining a consistent skincare regimen. With an intuitive interface, the application allows users to easily log their skincare products, track their progress, and receive tailored suggestions based on their skin type and concerns.
